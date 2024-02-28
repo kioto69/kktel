@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:120, group-title="TDT" - TVE1 HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TVE1HD)/index.m3u8
+#EXTINF:0, group-title="TDT" - LA2
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LA2)/index.m3u8
+#EXTINF:0, group-title="TDT" - ETB1
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB1)/index.m3u8
+#EXTINF:0, group-title="TDT" - ETB2
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB2)/index.m3u8
+#EXTINF:0, group-title="TDT" - ANTENA3 HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ANTENA3HD)/index.m3u8
+#EXTINF:0, group-title="TDT" - TELE5 HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELE5HD)/index.m3u8
+#EXTINF:0, group-title="TDT" - CUATRO HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CUATROHD)/index.m3u8
+#EXTINF:0, group-title="TDT" - LASEXTA HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LASEXTAHD)/index.m3u8
+#EXTINF:0, group-title="TDT" - ATRESERIES HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ATRESERIESHD)/index.m3u8
+#EXTINF:0, group-title="TDT" - BEMADHD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BEMADHD)/index.m3u8
+#EXTINF:0, group-title="TDT" - CANAL24HORAS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CANAL24HORAS)/index.m3u8
+#EXTINF:0, group-title="TDT" - DISCOVERYMAX
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISCOVERYMAX)/index.m3u8
+#EXTINF:0, group-title="TDT" - DIVINITY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DIVINITY)/index.m3u8
+#EXTINF:0, group-title="TDT" - DKISS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DKISS)/index.m3u8
+#EXTINF:0, group-title="TDT" - ENERGY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ENERGY)/index.m3u8
+#EXTINF:0, group-title="TDT" - FDF
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FDF)/index.m3u8
+#EXTINF:0, group-title="TDT" - MEGA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MEGA)/index.m3u8
+#EXTINF:0, group-title="TDT" - NOVA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NOVA)/index.m3u8
+#EXTINF:0, group-title="TDT" - TEN
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TEN)/index.m3u8
+#EXTINF:0, group-title="Infantil" - BABY TV
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BABYTV)/index.m3u8
+#EXTINF:0, group-title="Infantil" - BOING
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOING)/index.m3u8
+#EXTINF:0, group-title="Infantil" - CLAN TV
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CLANTV)/index.m3u8
+#EXTINF:0, group-title="Infantil" - DISNEY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEY)/index.m3u8
+#EXTINF:120, group-title="Infantil" - DISNEY JUNIOR
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEYJUNIOR)/index.m3u8
+#EXTINF:0, group-title="Infantil" - DREAMWORKS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DREAMWORKS)/index.m3u8
+#EXTINF:0, group-title="Infantil" - ETB3
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB3)/index.m3u8
+#EXTINF:0, group-title="Infantil" - LOLLY KIDS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LOLLYKIDS)/index.m3u8
+#EXTINF:0, group-title="Infantil" - NEOX
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NEOX)/index.m3u8
+#EXTINF:0, group-title="Infantil" - NICK JR
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKJR)/index.m3u8
+#EXTINF:0, group-title="Infantil" - NICKELODEON
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKELODEON)/index.m3u8
+#EXTINF:0, group-title="Infantil" - PANDA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PANDA)/index.m3u8
+#EXTINF:0, group-title="Cine" - AMC HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AMCHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - AXN HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AXNHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - AXN WHITE
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AXNWHITE)/index.m3u8
+#EXTINF:0, group-title="Cine" - BOM CINE
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOMCINE)/index.m3u8
+#EXTINF:0, group-title="Cine" - CALLE13
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CALLE13)/index.m3u8
+#EXTINF:0, group-title="Cine" - CANAL18
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CANAL18)/index.m3u8
+#EXTINF:0, group-title="Cine" - COSMO HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(COSMOHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - CP ESTRENOS HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CPESTRENOSHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - FEEL GOOD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FEELGOOD)/index.m3u8
+#EXTINF:0, group-title="Cine" - FOX HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FOXHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - HOLLYWOOD HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HOLLYWOODHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - MTV HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - PARAMOUNT
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PARAMOUNTCHAN)/index.m3u8
+#EXTINF:0, group-title="Cine" - PARAMOUNT COMEDY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PARAMOUNTCOMEDY)/index.m3u8
+#EXTINF:0, group-title="Cine" - SELEKT
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SELEKT)/index.m3u8
+#EXTINF:0, group-title="Cine" - SOMOS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SOMOS)/index.m3u8
+#EXTINF:0, group-title="Cine" - SUNDANCE
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SUNDANCESD)/index.m3u8
+#EXTINF:0, group-title="Cine" - SYFY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SYFY)/index.m3u8
+#EXTINF:0, group-title="Cine" - TCM HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TCMHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - TNT HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TNTHD)/index.m3u8
+#EXTINF:0, group-title="Cine" - VERDI
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VERDI)/index.m3u8
+#EXTINF:0, group-title="Cine" - XTREME HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(XTREMEHD)/index.m3u8
+#EXTINF:0, group-title="Deporte" - EUROSPORT
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT)/index.m3u8
+#EXTINF:0, group-title="Deporte" - EUROSPORT 2
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT2)/index.m3u8
+#EXTINF:0, group-title="Deporte" - EXTREME SPORTS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EXTRSPORTS)/index.m3u8
+#EXTINF:0, group-title="Deporte" - GARAGE TV
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GARAGETV)/index.m3u8
+#EXTINF:0, group-title="Deporte" - GOLTV
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GOLTV)/index.m3u8
+#EXTINF:0, group-title="Deporte" - LIGA SPORTS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASPORTS)/index.m3u8
+#EXTINF:0, group-title="Deporte" - TELEDEPORTE HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELEDEPORTEHD)/index.m3u8
+#EXTINF:0, group-title="Deporte" - UBEAT
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(UBEAT)/index.m3u8
+#EXTINF:0, group-title="Documentales" - BIOGRAPHY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BIOGRAPHY)/index.m3u8
+#EXTINF:0, group-title="Documentales" - CAZAVISION
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CAZAVISION)/index.m3u8
+#EXTINF:0, group-title="Documentales" - COCINA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(COCINASD)/index.m3u8
+#EXTINF:0, group-title="Documentales" - CRIMEN
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CRIMEN)/index.m3u8
+#EXTINF:0, group-title="Documentales" - DCASA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DCASASD)/index.m3u8
+#EXTINF:120,DISCOVERY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISCOVERY)/index.m3u8
+#EXTINF:0, group-title="Documentales" - ESCAPA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ESCAPA)/index.m3u8
+#EXTINF:0, group-title="Documentales" - HISTORIA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HISTORIA)/index.m3u8
+#EXTINF:0, group-title="Documentales" - IBERALIA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(IBERALIA)/index.m3u8
+#EXTINF:0, group-title="Documentales" - NAT GEO HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NATGEOHD)/index.m3u8
+#EXTINF:0, group-title="Documentales" - NAT GEO WILD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NATGEOWILDSD)/index.m3u8
+#EXTINF:0, group-title="Documentales" - ODISEA HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ODISEAHD)/index.m3u8
+#EXTINF:0, group-title="Internacional" - ALJAZEERA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ALJAZEERA)/index.m3u8
+#EXTINF:0, group-title="Internacional" - ANDALUCIA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ANDALUCIA)/index.m3u8
+#EXTINF:0, group-title="Internacional" - BBC
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BBC)/index.m3u8
+#EXTINF:0, group-title="Internacional" - BLOOMBERG
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BLOOMBERG)/index.m3u8
+#EXTINF:0, group-title="Internacional" - CARACOLTV
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CARACOLTV)/index.m3u8
+#EXTINF:0, group-title="Internacional" - CNNi
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CNNi)/index.m3u8
+#EXTINF:0, group-title="Internacional" - DW
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DW)/index.m3u8
+#EXTINF:0, group-title="Internacional" - EURONEWS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EURONEWS)/index.m3u8
+#EXTINF:0, group-title="Internacional" - FRANCE24
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FRANCE24)/index.m3u8
+#EXTINF:0, group-title="Internacional" - TELEMADRID INT
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELEMADRIDINT)/index.m3u8
+#EXTINF:0, group-title="Internacional" - TV5
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TV5)/index.m3u8
+#EXTINF:0, group-title="Internacional" - TVCi
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TVCi)/index.m3u8
+#EXTINF:0, group-title="Musica" - HIT TV
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HITTV)/index.m3u8
+#EXTINF:0, group-title="Musica" - MTV DANCE
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVDANCE)/index.m3u8
+#EXTINF:0, group-title="Musica" - MTV HITS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVHITS)/index.m3u8
+#EXTINF:0, group-title="Musica" - MTV MUSIC
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVMUSIC)/index.m3u8
+#EXTINF:0, group-title="Musica" - MTV ROCKS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVROCKS)/index.m3u8
+#EXTINF:0, group-title="Musica" - SOL MUSICA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SOLMUSICA)/index.m3u8
+#EXTINF:0, group-title="Musica" - VH1
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VH1)/index.m3u8
+#EXTINF:0, group-title="Musica" - VH1 CLASSIC
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VH1CLASSIC)/index.m3u8
