@@ -1,193 +1,193 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA 1 HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/tve1.png",LA 1 HD
+#EXTINF:-1 tvg-id="LA 1 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/tve1.png",LA 1 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TVE1HD)/index.m3u8
-#EXTINF:-1 tvg-id="LA 2 HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/LA2_OTT.png",LA 2 HD
+#EXTINF:-1 tvg-id="LA 2 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/LA2_OTT.png",LA 2 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LA2)/index.m3u8
-#EXTINF:-1 tvg-id="ETB 1 HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB1_OTT_022022.png",ETB 1 HD
+#EXTINF:-1 tvg-id="ETB 1 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB1_OTT_022022.png",ETB 1 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB1)/index.m3u8
-#EXTINF:-1 tvg-id="ETB 2 HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB2_OTT_022022.png",ETB 2 HD
+#EXTINF:-1 tvg-id="ETB 2 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB2_OTT_022022.png",ETB 2 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB2)/index.m3u8
-#EXTINF:-1 tvg-id="ANTENA 3 HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ANTENA3_OTT_082019.png",ANTENA 3 HD
+#EXTINF:-1 tvg-id="ANTENA 3 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ANTENA3_OTT_082019.png",ANTENA 3 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ANTENA3HD)/index.m3u8
-#EXTINF:-1 tvg-id="TELECINCO HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TELE5_OTT_082019.png",TELECINCO HD
+#EXTINF:-1 tvg-id="TELECINCO HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TELE5_OTT_082019.png",TELECINCO HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELE5HD)/index.m3u8
-#EXTINF:-1 tvg-id="CUATRO HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/CUATRO_OTT_082019.png",CUATRO HD
+#EXTINF:-1 tvg-id="CUATRO HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/CUATRO_OTT_082019.png",CUATRO HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CUATROHD)/index.m3u8
-#EXTINF:-1 tvg-id="LA SEXTA HD group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/LASEXTA_OTT_082019.png",LA SEXTA HD
+#EXTINF:-1 tvg-id="LA SEXTA HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/LASEXTA_OTT_082019.png",LA SEXTA HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LASEXTAHD)/index.m3u8
-#EXTINF:-1 tvg-id="BABY TV group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/BABYTV_OTT.png",BABY TV
+#EXTINF:-1 tvg-id="BABY TV" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/BABYTV_OTT.png",BABY TV
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BABYTV)/index.m3u8
-#EXTINF:-1 tvg-id="BOING group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/BOING_OTT.png",BOING
+#EXTINF:-1 tvg-id="BOING" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/BOING_OTT.png",BOING
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOING)/index.m3u8
-#EXTINF:-1 tvg-id="CLANTV HD group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/CLANTV_OTT.png",CLANTV HD
+#EXTINF:-1 tvg-id="CLANTV HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/CLANTV_OTT.png",CLANTV HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CLANTV)/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY HD group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISNEY_OTT_022024.png",DISNEY HD
+#EXTINF:-1 tvg-id="DISNEY HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISNEY_OTT_022024.png",DISNEY HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEY)/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISNEYJUNIOR_OTT.png",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISNEYJUNIOR_OTT.png",DISNEY JUNIOR
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEYJUNIOR)/index.m3u8
-#EXTINF:-1 tvg-id="DREAMWORKS HD group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DREAMWORKS_OTT_082021.png",DREAMWORKS HD
+#EXTINF:-1 tvg-id="DREAMWORKS HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DREAMWORKS_OTT_082021.png",DREAMWORKS HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DREAMWORKS)/index.m3u8
-#EXTINF:-1 tvg-id="ENFAMILIA group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/ENFAMILIA_OTT_122022.png",ENFAMILIA
+#EXTINF:-1 tvg-id="ENFAMILIA" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/ENFAMILIA_OTT_122022.png",ENFAMILIA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PANDA)/index.m3u8
-#EXTINF:-1 tvg-id="ETB 3 group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB3_OTT_022022.png",ETB 3
+#EXTINF:-1 tvg-id="ETB 3" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB3_OTT_022022.png",ETB 3
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB3)/index.m3u8
-#EXTINF:-1 tvg-id="LOLLY KIDS group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/LOLLYKIDS_OTT_062021.png",LOLLY KIDS
+#EXTINF:-1 tvg-id="LOLLY KIDS" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/LOLLYKIDS_OTT_062021.png",LOLLY KIDS
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LOLLYKIDS)/index.m3u8
-#EXTINF:-1 tvg-id="NEOX group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NEOX_OTT_042023.png",NEOX
+#EXTINF:-1 tvg-id="NEOX" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NEOX_OTT_042023.png",NEOX
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NEOX)/index.m3u8
-#EXTINF:-1 tvg-id="NICK HD group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICK_OTT_022024.png",NICK HD
+#EXTINF:-1 tvg-id="NICK HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICK_OTT_022024.png",NICK HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKELODEON)/index.m3u8
-#EXTINF:-1 tvg-id="NICK JR group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICKJR_OTT_022024.png",NICK JR
+#EXTINF:-1 tvg-id="NICK JR" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICKJR_OTT_022024.png",NICK JR
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKJR)/index.m3u8
-#EXTINF:-1 tvg-id="AMC HD group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/AMC_OTT_082019.png",AMC HD
+#EXTINF:-1 tvg-id="AMC HD" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/AMC_OTT_082019.png",AMC HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AMCHD)/index.m3u8
-#EXTINF:-1 tvg-id="AXN HD group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/AXN_OTT_082019.png",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/AXN_OTT_082019.png",AXN HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AXNHD)/index.m3u8
-#EXTINF:-1 tvg-id="FOX HD group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/FOX_OTT_20190116.png",FOX HD
+#EXTINF:-1 tvg-id="FOX HD" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/FOX_OTT_20190116.png",FOX HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FOXHD)/index.m3u8
-#EXTINF:-1 tvg-id="SYFY HD group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/SYFY_OTT_082019.png",SYFY HD
+#EXTINF:-1 tvg-id="SYFY HD" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/SYFY_OTT_082019.png",SYFY HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SYFY)/index.m3u8
-#EXTINF:-1 tvg-id="WARNER TV group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/WARNERTV_OTT_042023.png",WARNER TV
+#EXTINF:-1 tvg-id="WARNER TV" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/WARNERTV_OTT_042023.png",WARNER TV
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TNTHD)/index.m3u8
-#EXTINF:-1 tvg-id="MEGA group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/MEGA_OTT_062020.png",MEGA
+#EXTINF:-1 tvg-id="MEGA" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/MEGA_OTT_062020.png",MEGA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MEGA)/index.m3u8
-#EXTINF:-1 tvg-id="ENERGY group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/ENERGY_OTT_062020.png",ENERGY
+#EXTINF:-1 tvg-id="ENERGY" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/ENERGY_OTT_062020.png",ENERGY
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ENERGY)/index.m3u8
-#EXTINF:-1 tvg-id="DKISS group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DKISS_OTT_122020.png",DKISS
+#EXTINF:-1 tvg-id="DKISS" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DKISS_OTT_122020.png",DKISS
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DKISS)/index.m3u8
-#EXTINF:-1 tvg-id="DIVINITY group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/divinity.png",DIVINITY
+#EXTINF:-1 tvg-id="DIVINITY" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/divinity.png",DIVINITY
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DIVINITY)/index.m3u8
-#EXTINF:-1 tvg-id="NOVA group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/NOVA_OTT_220620.png",NOVA
+#EXTINF:-1 tvg-id="NOVA" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/NOVA_OTT_220620.png",NOVA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NOVA)/index.m3u8
-#EXTINF:-1 tvg-id="FDF group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/fdf.png",FDF
+#EXTINF:-1 tvg-id="FDF" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/fdf.png",FDF
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FDF)/index.m3u8
-#EXTINF:-1 tvg-id="COSMOPOLITAN HD group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/COSMO_OTT_022024.png",COSMOPOLITAN HD
+#EXTINF:-1 tvg-id="COSMOPOLITAN HD" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/COSMO_OTT_022024.png",COSMOPOLITAN HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(COSMOHD)/index.m3u8
-#EXTINF:-1 tvg-id="BEMAD TV HD group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/BEMADHD_OTT.png",BEMAD TV HD
+#EXTINF:-1 tvg-id="BEMAD TV HD" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/BEMADHD_OTT.png",BEMAD TV HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BEMADHD)/index.m3u8
-#EXTINF:-1 tvg-id="ATRESERIES HD group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/A3SERIES_OTT_022024.png",ATRESERIES HD
+#EXTINF:-1 tvg-id="ATRESERIES HD" group-title="SERIES"  tvg-logo="http://imagenes.euskaltel.tv/logos/A3SERIES_OTT_022024.png",ATRESERIES HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ATRESERIESHD)/index.m3u8
-#EXTINF:-1 tvg-id="XTREME HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/XTREMEHD_OTT.png",XTREME HD
+#EXTINF:-1 tvg-id="XTREME HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/XTREMEHD_OTT.png",XTREME HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(XTREMEHD)/index.m3u8
-#EXTINF:-1 tvg-id="PARAM. CHANNEL group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/PARAMOUNTCHANNEL_OTT_122020.png",PARAM. CHANNEL
+#EXTINF:-1 tvg-id="PARAM. CHANNEL" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/PARAMOUNTCHANNEL_OTT_122020.png",PARAM. CHANNEL
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PARAMOUNTCHAN)/index.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/HOLLYWOOD_OTT_20190117.png",HOLLYWOOD HD
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/HOLLYWOOD_OTT_20190117.png",HOLLYWOOD HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HOLLYWOODHD)/index.m3u8
-#EXTINF:-1 tvg-id="COMEDY CENTRAL HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/COMEDYCENTRAL_OTT_20190312.png",COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="COMEDY CENTRAL HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/COMEDYCENTRAL_OTT_20190312.png",COMEDY CENTRAL HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PARAMOUNTCOMEDY)/index.m3u8
-#EXTINF:-1 tvg-id="AXN MOVIES HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/AXNMOVIES_OTT_052023.png",AXN MOVIES HD
+#EXTINF:-1 tvg-id="AXN MOVIES HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/AXNMOVIES_OTT_052023.png",AXN MOVIES HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AXNWHITE)/index.m3u8
-#EXTINF:-1 tvg-id="AMC BREAK HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/AMC_BREAK_OTT.png",AMC BREAK HD
+#EXTINF:-1 tvg-id="AMC BREAK HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/AMC_BREAK_OTT.png",AMC BREAK HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BIOGRAPHY)/index.m3u8
-#EXTINF:-1 tvg-id="ACONTRA+ CINE HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/ACONTRAPLUSCINE_OTT_082023.png",ACONTRA+ CINE HD
+#EXTINF:-1 tvg-id="ACONTRA+ CINE HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/ACONTRAPLUSCINE_OTT_082023.png",ACONTRA+ CINE HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CPESTRENOSHD)/index.m3u8
-#EXTINF:-1 tvg-id="BOM CINE HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/BOMCINE_OTT.png",BOM CINE HD
+#EXTINF:-1 tvg-id="BOM CINE HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/BOMCINE_OTT.png",BOM CINE HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOMCINE)/index.m3u8
-#EXTINF:-1 tvg-id="CALLE 13 HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/CALLE13_OTT_082019.png",CALLE 13 HD
+#EXTINF:-1 tvg-id="CALLE 13 HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/CALLE13_OTT_082019.png",CALLE 13 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CALLE13)/index.m3u8
-#EXTINF:-1 tvg-id="DARK HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/DARK_OTT.png",DARK HD
+#EXTINF:-1 tvg-id="DARK HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/DARK_OTT.png",DARK HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CANAL18)/index.m3u8
-#EXTINF:-1 tvg-id="CINE FEEL GOOD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/FEELGOOD_OTT.png",CINE FEEL GOOD
+#EXTINF:-1 tvg-id="CINE FEEL GOOD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/FEELGOOD_OTT.png",CINE FEEL GOOD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FEELGOOD)/index.m3u8
-#EXTINF:-1 tvg-id="SELEKT HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/SELEKT_OTT_072023.png",SELEKT HD
+#EXTINF:-1 tvg-id="SELEKT HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/SELEKT_OTT_072023.png",SELEKT HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SELEKT)/index.m3u8
-#EXTINF:-1 tvg-id="SOMOS HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/SOMOS_OTT.png",SOMOS HD
+#EXTINF:-1 tvg-id="SOMOS HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/SOMOS_OTT.png",SOMOS HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SOMOS)/index.m3u8
-#EXTINF:-1 tvg-id="SUNDANCE HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/SUNDANCE_OTT_082019.png",SUNDANCE HD
+#EXTINF:-1 tvg-id="SUNDANCE HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/SUNDANCE_OTT_082019.png",SUNDANCE HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SUNDANCESD)/index.m3u8
-#EXTINF:-1 tvg-id="TCM HD group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/TCM_OTT_082019.png",TCM HD
+#EXTINF:-1 tvg-id="TCM HD" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/TCM_OTT_082019.png",TCM HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TCMHD)/index.m3u8
-#EXTINF:-1 tvg-id="CINES VERDI group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/VERDI_OTT.png",CINES VERDI
+#EXTINF:-1 tvg-id="CINES VERDI" group-title="CINE"  tvg-logo="http://imagenes.euskaltel.tv/logos/VERDI_OTT.png",CINES VERDI
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VERDI)/index.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT 2 HD group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EUROSPORT1_OTT.png",EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EUROSPORT1_OTT.png",EUROSPORT 2 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT)/index.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT HD group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EUROSPORT2_OTT.png",EUROSPORT HD
+#EXTINF:-1 tvg-id="EUROSPORT HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EUROSPORT2_OTT.png",EUROSPORT HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT2)/index.m3u8
-#EXTINF:-1 tvg-id="EXTREME SPORTS group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EXTREMESPORTS_OTT_122020.png",EXTREME SPORTS
+#EXTINF:-1 tvg-id="EXTREME SPORTS" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EXTREMESPORTS_OTT_122020.png",EXTREME SPORTS
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EXTRSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="GARAGE TV HD group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/GARAGETV_OTT.png",GARAGE TV HD
+#EXTINF:-1 tvg-id="GARAGE TV HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/GARAGETV_OTT.png",GARAGE TV HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GARAGETV)/index.m3u8
-#EXTINF:-1 tvg-id="GOL PLAY group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/GOLPLAY_OTT_082022.png",GOL PLAY
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/GOLPLAY_OTT_082022.png",GOL PLAY
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GOLTV)/index.m3u8
-#EXTINF:-1 tvg-id="LALIGA+ group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LALIGASPORTS_OTT_072023.png",LALIGA+
+#EXTINF:-1 tvg-id="LALIGA+" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LALIGASPORTS_OTT_072023.png",LALIGA+
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="TELEDEPORTE HD group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/TDP_OTT_082019.png",TELEDEPORTE HD
+#EXTINF:-1 tvg-id="TELEDEPORTE HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/TDP_OTT_082019.png",TELEDEPORTE HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELEDEPORTEHD)/index.m3u8
-#EXTINF:-1 tvg-id="UBEAT HD group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/UBEATHD_OTT.png",UBEAT HD
+#EXTINF:-1 tvg-id="UBEAT HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/UBEATHD_OTT.png",UBEAT HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(UBEAT)/index.m3u8
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LIGASB_OTT_072023.png",LALIGA TV HYPERMOTION
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASB)/index.m3u8
-#¡VALOR!
+#EXTINF:-1 tvg-id="LALIGA TV 2 HYPERMOTION" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LIGASBM1_OTT_072023.png",LALIGA TV 2 HYPERMOTION
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASBM1)/index.m3u8
-#¡VALOR!
+#EXTINF:-1 tvg-id="LALIGA TV 3 HYPERMOTION" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LIGASBM2_OTT_072023.png",LALIGA TV 3 HYPERMOTION
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASBM2)/index.m3u8
-#¡VALOR!
-#EXTINF:-1 tvg-id="AMC CRIME group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/AMC_CRIME_OTT.png",AMC CRIME
+#EXTINF:-1 tvg-id="AMC CRIME" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/AMC_CRIME_OTT.png",AMC CRIME
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CRIMEN)/index.m3u8
-#EXTINF:-1 tvg-id="BUENVIAJE group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/BUENVIAJE_OTT_042023.png",BUENVIAJE
+#EXTINF:-1 tvg-id="BUENVIAJE" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/BUENVIAJE_OTT_042023.png",BUENVIAJE
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SOLMUSICA)/index.m3u8
-#EXTINF:-1 tvg-id="CAZAVISION group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/CAZAVISION_OTT.png",CAZAVISION
+#EXTINF:-1 tvg-id="CAZAVISION" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/CAZAVISION_OTT.png",CAZAVISION
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CAZAVISION)/index.m3u8
-#EXTINF:-1 tvg-id="COCINA group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/COCINASD_OTT.png",COCINA
+#EXTINF:-1 tvg-id="COCINA" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/COCINASD_OTT.png",COCINA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(COCINASD)/index.m3u8
-#EXTINF:-1 tvg-id="DCASA group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DCASA_OTT_112022.png",DCASA
+#EXTINF:-1 tvg-id="DCASA" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DCASA_OTT_112022.png",DCASA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DCASASD)/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY HD group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISCOVERY_OTT.png",DISCOVERY HD
+#EXTINF:-1 tvg-id="DISCOVERY HD" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISCOVERY_OTT.png",DISCOVERY HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISCOVERY)/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY MAX group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DMAX_OTT_122020.png",DISCOVERY MAX
+#EXTINF:-1 tvg-id="DISCOVERY MAX" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/DMAX_OTT_122020.png",DISCOVERY MAX
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISCOVERYMAX)/index.m3u8
-#EXTINF:-1 tvg-id="ESCAPA HD group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/ESCAPA_OTT.png",ESCAPA HD
+#EXTINF:-1 tvg-id="ESCAPA HD" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/ESCAPA_OTT.png",ESCAPA HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ESCAPA)/index.m3u8
-#EXTINF:-1 tvg-id="HISTORIA HD group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/HISTORIA_OTT_20221010.png",HISTORIA HD
+#EXTINF:-1 tvg-id="HISTORIA HD" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/HISTORIA_OTT_20221010.png",HISTORIA HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HISTORIA)/index.m3u8
-#EXTINF:-1 tvg-id="IBERALIA group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/IBERALIA_OTT.png",IBERALIA
+#EXTINF:-1 tvg-id="IBERALIA" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/IBERALIA_OTT.png",IBERALIA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(IBERALIA)/index.m3u8
-#EXTINF:-1 tvg-id="NATGEO WILD HD group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/NATGEO_OTT_082019.png",NATGEO WILD HD
+#EXTINF:-1 tvg-id="NATGEO WILD HD" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/NATGEO_OTT_082019.png",NATGEO WILD HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NATGEOHD)/index.m3u8
-#EXTINF:-1 tvg-id="NATIONAL GEO HD group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/NATGEOWILD_OTT_20190204.png",NATIONAL GEO HD
+#EXTINF:-1 tvg-id="NATIONAL GEO HD" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/NATGEOWILD_OTT_20190204.png",NATIONAL GEO HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NATGEOWILDSD)/index.m3u8
-#EXTINF:-1 tvg-id="ODISEA HD group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/ODISEA_OTT_082019.png",ODISEA HD
+#EXTINF:-1 tvg-id="ODISEA HD" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/ODISEA_OTT_082019.png",ODISEA HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ODISEAHD)/index.m3u8
-#EXTINF:-1 tvg-id="TEN group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/TEN_OTT_122020.png",TEN
+#EXTINF:-1 tvg-id="TEN" group-title="DOCUMENTALES"  tvg-logo="http://imagenes.euskaltel.tv/logos/TEN_OTT_122020.png",TEN
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TEN)/index.m3u8
-#EXTINF:-1 tvg-id="HIT TV group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/HITTV_OTT_062020.png",HIT TV
+#EXTINF:-1 tvg-id="HIT TV" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/HITTV_OTT_062020.png",HIT TV
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HITTV)/index.m3u8
-#EXTINF:-1 tvg-id="MTV 00s group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTV00s_OTT_072021.png",MTV 00s
+#EXTINF:-1 tvg-id="MTV 00s" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTV00s_OTT_072021.png",MTV 00s
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VH1)/index.m3u8
-#EXTINF:-1 tvg-id="MTV 80s group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTV80s_OTT_102020.png",MTV 80s
+#EXTINF:-1 tvg-id="MTV 80s" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTV80s_OTT_102020.png",MTV 80s
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VH1CLASSIC)/index.m3u8
-#EXTINF:-1 tvg-id="MTV 90s group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTV90s_OTT_102020.png",MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTV90s_OTT_102020.png",MTV 90s
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVROCKS)/index.m3u8
-#EXTINF:-1 tvg-id="CLUB MTV group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTVCLUB_OTT_092021.png",CLUB MTV
+#EXTINF:-1 tvg-id="CLUB MTV" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTVCLUB_OTT_092021.png",CLUB MTV
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVDANCE)/index.m3u8
-#EXTINF:-1 tvg-id="MTV HD group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTVHD_OTT.png",MTV HD
+#EXTINF:-1 tvg-id="MTV HD" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTVHD_OTT.png",MTV HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVHD)/index.m3u8
-#EXTINF:-1 tvg-id="MTV HITS group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTVHITS_OTT_092021.png",MTV HITS
+#EXTINF:-1 tvg-id="MTV HITS" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/MTVHITS_OTT_092021.png",MTV HITS
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVHITS)/index.m3u8
-#EXTINF:-1 tvg-id="NICK MUSIC group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICKMUSIC_OTT_062021.png",NICK MUSIC
+#EXTINF:-1 tvg-id="NICK MUSIC" group-title="MUSICA"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICKMUSIC_OTT_062021.png",NICK MUSIC
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVMUSIC)/index.m3u8
-#EXTINF:-1 tvg-id="CANAL 24 HORAS group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/24H_OTT_062021.png",CANAL 24 HORAS
+#EXTINF:-1 tvg-id="CANAL 24 HORAS" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/24H_OTT_062021.png",CANAL 24 HORAS
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CANAL24HORAS)/index.m3u8
-#EXTINF:-1 tvg-id="AL JAZEERA group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ALJAZEERA_OTT_122020.png",AL JAZEERA
+#EXTINF:-1 tvg-id="AL JAZEERA" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ALJAZEERA_OTT_122020.png",AL JAZEERA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ALJAZEERA)/index.m3u8
-#EXTINF:-1 tvg-id="CANAL SUR ANDALUCIA group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ANDALUCIAINT_OTT_102023.png",CANAL SUR ANDALUCIA
+#EXTINF:-1 tvg-id="CANAL SUR ANDALUCIA" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ANDALUCIAINT_OTT_102023.png",CANAL SUR ANDALUCIA
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ANDALUCIA)/index.m3u8
-#EXTINF:-1 tvg-id="BBC NEWS group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/BBC_OTT_042023.png",BBC NEWS
+#EXTINF:-1 tvg-id="BBC NEWS" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/BBC_OTT_042023.png",BBC NEWS
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BBC)/index.m3u8
-#EXTINF:-1 tvg-id="BLOOMBERG group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/BLOOMBERG_OTT_122020.png",BLOOMBERG
+#EXTINF:-1 tvg-id="BLOOMBERG" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/BLOOMBERG_OTT_122020.png",BLOOMBERG
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BLOOMBERG)/index.m3u8
-#EXTINF:-1 tvg-id="CARACOL TV group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/CARACOLTV_OTT_122020.png",CARACOL TV
+#EXTINF:-1 tvg-id="CARACOL TV" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/CARACOLTV_OTT_122020.png",CARACOL TV
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CARACOLTV)/index.m3u8
-#EXTINF:-1 tvg-id="CNN group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/CNN_OTT_122020.png",CNN
+#EXTINF:-1 tvg-id="CNN" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/CNN_OTT_122020.png",CNN
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CNNi)/index.m3u8
-#EXTINF:-1 tvg-id="DW group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/DW_OTT_122020.png",DW
+#EXTINF:-1 tvg-id="DW" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/DW_OTT_122020.png",DW
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DW)/index.m3u8
-#EXTINF:-1 tvg-id="EURONEWS group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/EURONEWS_OTT_022023.png",EURONEWS
+#EXTINF:-1 tvg-id="EURONEWS" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/EURONEWS_OTT_022023.png",EURONEWS
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EURONEWS)/index.m3u8
-#EXTINF:-1 tvg-id="FRANCE 24 group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/FRANCE24_OTT_122020.png",FRANCE 24
+#EXTINF:-1 tvg-id="FRANCE 24" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/FRANCE24_OTT_122020.png",FRANCE 24
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FRANCE24)/index.m3u8
-#EXTINF:-1 tvg-id="TELEMADRID INT group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TELEMADRIDINT_OTT_102023.png",TELEMADRID INT
+#EXTINF:-1 tvg-id="TELEMADRID INT" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TELEMADRIDINT_OTT_102023.png",TELEMADRID INT
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELEMADRIDINT)/index.m3u8
-#EXTINF:-1 tvg-id="TV5 MONDE group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TV5_OTT_122020.png",TV5 MONDE
+#EXTINF:-1 tvg-id="TV5 MONDE" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TV5_OTT_122020.png",TV5 MONDE
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TV5)/index.m3u8
-#EXTINF:-1 tvg-id="TVCi group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TVCI_OTT_102023.png",TVCi
+#EXTINF:-1 tvg-id="TVCi" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/TVCI_OTT_102023.png",TVCi
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TVCi)/index.m3u8
