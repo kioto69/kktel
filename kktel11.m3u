@@ -1,3 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La Liga (opción 1)" group-title="NOTICIAS"  tvg-logo="https://i.ibb.co/VSjQ2rb/1-0-19-750-F-420-1-C00000-0-0-0.png",LA 1 HD
-https://abolishstand.net/embed/dvuf5ydd4
+#EXTINF:-1 tvg-id="BABY TV" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/BABYTV_OTT.png",BABY TV
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BABYTV)/index.m3u8
+#EXTINF:-1 tvg-id="BOING" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/BOING_OTT.png",BOING
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOING)/index.m3u8
+#EXTINF:-1 tvg-id="CLANTV HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/CLANTV_OTT.png",CLANTV HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CLANTV)/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISNEY_OTT_022024.png",DISNEY HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEY)/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DISNEYJUNIOR_OTT.png",DISNEY JUNIOR
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEYJUNIOR)/index.m3u8
+#EXTINF:-1 tvg-id="DREAMWORKS HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/DREAMWORKS_OTT_082021.png",DREAMWORKS HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DREAMWORKS)/index.m3u8
+#EXTINF:-1 tvg-id="ENFAMILIA" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/ENFAMILIA_OTT_122022.png",ENFAMILIA
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PANDA)/index.m3u8
+#EXTINF:-1 tvg-id="ETB 3" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB3_OTT_022022.png",ETB 3
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB3)/index.m3u8
+#EXTINF:-1 tvg-id="LOLLY KIDS" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/LOLLYKIDS_OTT_062021.png",LOLLY KIDS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LOLLYKIDS)/index.m3u8
+#EXTINF:-1 tvg-id="NEOX" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NEOX_OTT_042023.png",NEOX
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NEOX)/index.m3u8
+#EXTINF:-1 tvg-id="NICK HD" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICK_OTT_022024.png",NICK HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKELODEON)/index.m3u8
+#EXTINF:-1 tvg-id="NICK JR" group-title="INFANTIL"  tvg-logo="http://imagenes.euskaltel.tv/logos/NICKJR_OTT_022024.png",NICK JR
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKJR)/index.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EUROSPORT1_OTT.png",EUROSPORT 2 HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT)/index.m3u8
+#EXTINF:-1 tvg-id="EUROSPORT HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EUROSPORT2_OTT.png",EUROSPORT HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT2)/index.m3u8
+#EXTINF:-1 tvg-id="EXTREME SPORTS" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/EXTREMESPORTS_OTT_122020.png",EXTREME SPORTS
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EXTRSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="GARAGE TV HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/GARAGETV_OTT.png",GARAGE TV HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GARAGETV)/index.m3u8
+#EXTINF:-1 tvg-id="GOL PLAY" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/GOLPLAY_OTT_082022.png",GOL PLAY
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GOLTV)/index.m3u8
+#EXTINF:-1 tvg-id="LALIGA+" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LALIGASPORTS_OTT_072023.png",LALIGA+
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="TELEDEPORTE HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/TDP_OTT_082019.png",TELEDEPORTE HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELEDEPORTEHD)/index.m3u8
+#EXTINF:-1 tvg-id="UBEAT HD" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/UBEATHD_OTT.png",UBEAT HD
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(UBEAT)/index.m3u8
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LIGASB_OTT_072023.png",LALIGA TV HYPERMOTION
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASB)/index.m3u8
+#EXTINF:-1 tvg-id="LALIGA TV 2 HYPERMOTION" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LIGASBM1_OTT_072023.png",LALIGA TV 2 HYPERMOTION
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASBM1)/index.m3u8
+#EXTINF:-1 tvg-id="LALIGA TV 3 HYPERMOTION" group-title="DEPORTES"  tvg-logo="http://imagenes.euskaltel.tv/logos/LIGASBM2_OTT_072023.png",LALIGA TV 3 HYPERMOTION
+http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASBM2)/index.m3u8
