@@ -36,6 +36,26 @@
 { "name": "NICK HD", "image": "http://imagenes.euskaltel.tv/logos/NICK_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKELODEON)/index.m3u8"},
 { "name": "NICK JR", "image": "http://imagenes.euskaltel.tv/logos/NICKJR_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKJR)/index.m3u8"}
 ]
+},
+{
+      "name": "Series",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Breaking_Bad_logo.svg/1920px-Breaking_Bad_logo.svg.png",
+      "stations": [
+{ "name": "AMC HD", "image": "http://imagenes.euskaltel.tv/logos/AMC_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AMCHD)/index.m3u8" },
+{ "name": "AXN HD", "image": "http://imagenes.euskaltel.tv/logos/AXN_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AXNHD)/index.m3u8" },
+{ "name": "FOX HD", "image": "http://imagenes.euskaltel.tv/logos/FOX_OTT_20190116.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FOXHD)/index.m3u8" },
+{ "name": "SYFY HD", "image": "http://imagenes.euskaltel.tv/logos/SYFY_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SYFY)/index.m3u8" },
+{ "name": "WARNER TV", "image": "http://imagenes.euskaltel.tv/logos/WARNERTV_OTT_042023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TNTHD)/index.m3u8" },
+{ "name": "MEGA", "image": "http://imagenes.euskaltel.tv/logos/MEGA_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MEGA)/index.m3u8" },
+{ "name": "ENERGY", "image": "http://imagenes.euskaltel.tv/logos/ENERGY_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ENERGY)/index.m3u8" },
+{ "name": "DKISS", "image": "http://imagenes.euskaltel.tv/logos/DKISS_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DKISS)/index.m3u8" },
+{ "name": "DIVINITY", "image": "http://imagenes.euskaltel.tv/logos/divinity.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DIVINITY)/index.m3u8" },
+{ "name": "NOVA", "image": "http://imagenes.euskaltel.tv/logos/NOVA_OTT_220620.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NOVA)/index.m3u8" },
+{ "name": "FDF", "image": "http://imagenes.euskaltel.tv/logos/fdf.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FDF)/index.m3u8" },
+{ "name": "COSMOPOLITAN HD", "image": "http://imagenes.euskaltel.tv/logos/COSMO_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(COSMOHD)/index.m3u8" },
+{ "name": "BEMAD TV HD", "image": "http://imagenes.euskaltel.tv/logos/BEMADHD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BEMADHD)/index.m3u8" },
+{ "name": "ATRESERIES HD", "image": "http://imagenes.euskaltel.tv/logos/A3SERIES_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ATRESERIESHD)/index.m3u8" }
+]
 }
 ]
 }
