@@ -9,19 +9,67 @@
       "name": "Infantil",
       "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
       "stations": [
-{ "name": "BABY TV", image": "http://imagenes.euskaltel.tv/logos/BABYTV_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BABYTV)/index.m3u8" },
-{ "name": "BOING", image": "http://imagenes.euskaltel.tv/logos/BOING_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOING)/index.m3u8" },
-{ "name": "CLANTV HD", image": "http://imagenes.euskaltel.tv/logos/CLANTV_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CLANTV)/index.m3u8" },
-{ "name": "DISNEY HD", image": "http://imagenes.euskaltel.tv/logos/DISNEY_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEY)/index.m3u8" },
-{ "name": "DISNEY JUNIOR", image": "http://imagenes.euskaltel.tv/logos/DISNEYJUNIOR_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEYJUNIOR)/index.m3u8" },
-{ "name": "DREAMWORKS HD", image": "http://imagenes.euskaltel.tv/logos/DREAMWORKS_OTT_082021.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DREAMWORKS)/index.m3u8" },
-{ "name": "ENFAMILIA", image": "http://imagenes.euskaltel.tv/logos/ENFAMILIA_OTT_122022.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PANDA)/index.m3u8" },
-{ "name": "ETB 3", image": "http://imagenes.euskaltel.tv/logos/ETB3_OTT_022022.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB3)/index.m3u8" },
-{ "name": "LOLLY KIDS", image": "http://imagenes.euskaltel.tv/logos/LOLLYKIDS_OTT_062021.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LOLLYKIDS)/index.m3u8" },
-{ "name": "NEOX", image": "http://imagenes.euskaltel.tv/logos/NEOX_OTT_042023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NEOX)/index.m3u8" },
-{ "name": "NICK HD", image": "http://imagenes.euskaltel.tv/logos/NICK_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKELODEON)/index.m3u8" },
-{ "name": "NICK JR", image": "http://imagenes.euskaltel.tv/logos/NICKJR_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKJR)/index.m3u8" }
-      ]
+{ 
+"name": "BABY TV", 
+"image": "http://imagenes.euskaltel.tv/logos/BABYTV_OTT.png", 
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BABYTV)/index.m3u8" 
+},
+{ 
+"name": "BOING", 
+"image": "http://imagenes.euskaltel.tv/logos/BOING_OTT.png", 
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOING)/index.m3u8" 
+},
+{
+"name": "CLANTV HD",
+"image": "http://imagenes.euskaltel.tv/logos/CLANTV_OTT.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CLANTV)/index.m3u8"
+},
+{
+"name": "DISNEY HD",
+"image": "http://imagenes.euskaltel.tv/logos/DISNEY_OTT_022024.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEY)/index.m3u8"
+},
+{
+"name": "DISNEY JUNIOR",
+"image": "http://imagenes.euskaltel.tv/logos/DISNEYJUNIOR_OTT.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISNEYJUNIOR)/index.m3u8"
+},
+{
+"name": "DREAMWORKS HD",
+"image": "http://imagenes.euskaltel.tv/logos/DREAMWORKS_OTT_082021.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DREAMWORKS)/index.m3u8"
+},
+{
+"name": "ENFAMILIA",
+"image": "http://imagenes.euskaltel.tv/logos/ENFAMILIA_OTT_122022.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PANDA)/index.m3u8"
+},
+{
+"name": "ETB 3",
+"image": "http://imagenes.euskaltel.tv/logos/ETB3_OTT_022022.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB3)/index.m3u8"
+},
+{
+"name": "LOLLY KIDS",
+"image": "http://imagenes.euskaltel.tv/logos/LOLLYKIDS_OTT_062021.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LOLLYKIDS)/index.m3u8"
+},
+{
+"name": "NEOX",
+"image": "http://imagenes.euskaltel.tv/logos/NEOX_OTT_042023.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NEOX)/index.m3u8"
+},
+{
+"name": "NICK HD",
+"image": "http://imagenes.euskaltel.tv/logos/NICK_OTT_022024.png",
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKELODEON)/index.m3u8"
+},
+{
+"name": "NICK JR",
+"image": "http://imagenes.euskaltel.tv/logos/NICKJR_OTT_022024.png", 
+"url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKJR)/index.m3u8"
+}
+]
 }
 ]
 }
