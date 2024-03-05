@@ -56,6 +56,98 @@
 { "name": "BEMAD TV HD", "image": "http://imagenes.euskaltel.tv/logos/BEMADHD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BEMADHD)/index.m3u8" },
 { "name": "ATRESERIES HD", "image": "http://imagenes.euskaltel.tv/logos/A3SERIES_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ATRESERIESHD)/index.m3u8" }
 ]
+},
+{
+      "name": "Cine",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Godfather_logo.svg/1280px-The_Godfather_logo.svg.png",
+      "stations": [
+{ "name": "XTREME HD", "image": "http://imagenes.euskaltel.tv/logos/XTREMEHD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(XTREMEHD)/index.m3u8" },
+{ "name": "PARAM. CHANNEL", "image": "http://imagenes.euskaltel.tv/logos/PARAMOUNTCHANNEL_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PARAMOUNTCHAN)/index.m3u8" },
+{ "name": "HOLLYWOOD HD", "image": "http://imagenes.euskaltel.tv/logos/HOLLYWOOD_OTT_20190117.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HOLLYWOODHD)/index.m3u8" },
+{ "name": "COMEDY CENTRAL HD", "image": "http://imagenes.euskaltel.tv/logos/COMEDYCENTRAL_OTT_20190312.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(PARAMOUNTCOMEDY)/index.m3u8" },
+{ "name": "AXN MOVIES HD", "image": "http://imagenes.euskaltel.tv/logos/AXNMOVIES_OTT_052023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(AXNWHITE)/index.m3u8" },
+{ "name": "AMC BREAK HD", "image": "http://imagenes.euskaltel.tv/logos/AMC_BREAK_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BIOGRAPHY)/index.m3u8" },
+{ "name": "ACONTRA+ CINE HD", "image": "http://imagenes.euskaltel.tv/logos/ACONTRAPLUSCINE_OTT_082023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CPESTRENOSHD)/index.m3u8" },
+{ "name": "BOM CINE HD", "image": "http://imagenes.euskaltel.tv/logos/BOMCINE_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BOMCINE)/index.m3u8" },
+{ "name": "CALLE 13 HD", "image": "http://imagenes.euskaltel.tv/logos/CALLE13_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CALLE13)/index.m3u8" },
+{ "name": "DARK HD", "image": "http://imagenes.euskaltel.tv/logos/DARK_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CANAL18)/index.m3u8" },
+{ "name": "CINE FEEL GOOD", "image": "http://imagenes.euskaltel.tv/logos/FEELGOOD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FEELGOOD)/index.m3u8" },
+{ "name": "SELEKT HD", "image": "http://imagenes.euskaltel.tv/logos/SELEKT_OTT_072023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SELEKT)/index.m3u8" },
+{ "name": "SOMOS HD", "image": "http://imagenes.euskaltel.tv/logos/SOMOS_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SOMOS)/index.m3u8" },
+{ "name": "SUNDANCE HD", "image": "http://imagenes.euskaltel.tv/logos/SUNDANCE_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SUNDANCESD)/index.m3u8" },
+{ "name": "TCM HD", "image": "http://imagenes.euskaltel.tv/logos/TCM_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TCMHD)/index.m3u8" },
+{ "name": "CINES VERDI", "image": "http://imagenes.euskaltel.tv/logos/VERDI_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VERDI)/index.m3u8" }
+]
+},
+{
+      "name": "Deportes",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1920px-Olympic_rings_without_rims.svg.png",
+      "stations": [
+{ "name": "EUROSPORT 2 HD", "image": "http://imagenes.euskaltel.tv/logos/EUROSPORT1_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT)/index.m3u8" },
+{ "name": "EUROSPORT HD", "image": "http://imagenes.euskaltel.tv/logos/EUROSPORT2_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EUROSPORT2)/index.m3u8" },
+{ "name": "EXTREME SPORTS", "image": "http://imagenes.euskaltel.tv/logos/EXTREMESPORTS_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EXTRSPORTS)/index.m3u8" },
+{ "name": "GARAGE TV HD", "image": "http://imagenes.euskaltel.tv/logos/GARAGETV_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GARAGETV)/index.m3u8" },
+{ "name": "GOL PLAY", "image": "http://imagenes.euskaltel.tv/logos/GOLPLAY_OTT_082022.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(GOLTV)/index.m3u8" },
+{ "name": "LALIGA+", "image": "http://imagenes.euskaltel.tv/logos/LALIGASPORTS_OTT_072023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASPORTS)/index.m3u8" },
+{ "name": "TELEDEPORTE HD", "image": "http://imagenes.euskaltel.tv/logos/TDP_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELEDEPORTEHD)/index.m3u8" },
+{ "name": "UBEAT HD", "image": "http://imagenes.euskaltel.tv/logos/UBEATHD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(UBEAT)/index.m3u8" },
+{ "name": "LALIGA TV HYPERMOTION", "image": "http://imagenes.euskaltel.tv/logos/LIGASB_OTT_072023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASB)/index.m3u8" },
+{ "name": "LALIGA TV 2 HYPERMOTION", "image": "http://imagenes.euskaltel.tv/logos/LIGASBM1_OTT_072023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASBM1)/index.m3u8" },
+{ "name": "LALIGA TV 3 HYPERMOTION", "image": "http://imagenes.euskaltel.tv/logos/LIGASBM2_OTT_072023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LIGASBM2)/index.m3u8" }
+]
+},
+{
+      "name": "Documentales",
+      "image": "https://pics.filmaffinity.com/human-533240540-large.jpg",
+      "stations": [
+{ "name": "AMC CRIME", "image": "http://imagenes.euskaltel.tv/logos/AMC_CRIME_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CRIMEN)/index.m3u8" },
+{ "name": "BUENVIAJE", "image": "http://imagenes.euskaltel.tv/logos/BUENVIAJE_OTT_042023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SOLMUSICA)/index.m3u8" },
+{ "name": "CAZAVISION", "image": "http://imagenes.euskaltel.tv/logos/CAZAVISION_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CAZAVISION)/index.m3u8" },
+{ "name": "COCINA", "image": "http://imagenes.euskaltel.tv/logos/COCINASD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(COCINASD)/index.m3u8" },
+{ "name": "DCASA", "image": "http://imagenes.euskaltel.tv/logos/DCASA_OTT_112022.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DCASASD)/index.m3u8" },
+{ "name": "DISCOVERY HD", "image": "http://imagenes.euskaltel.tv/logos/DISCOVERY_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISCOVERY)/index.m3u8" },
+{ "name": "DISCOVERY MAX", "image": "http://imagenes.euskaltel.tv/logos/DMAX_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DISCOVERYMAX)/index.m3u8" },
+{ "name": "ESCAPA HD", "image": "http://imagenes.euskaltel.tv/logos/ESCAPA_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ESCAPA)/index.m3u8" },
+{ "name": "HISTORIA HD", "image": "http://imagenes.euskaltel.tv/logos/HISTORIA_OTT_20221010.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HISTORIA)/index.m3u8" },
+{ "name": "IBERALIA", "image": "http://imagenes.euskaltel.tv/logos/IBERALIA_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(IBERALIA)/index.m3u8" },
+{ "name": "NATGEO WILD HD", "image": "http://imagenes.euskaltel.tv/logos/NATGEO_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NATGEOHD)/index.m3u8" },
+{ "name": "NATIONAL GEO HD", "image": "http://imagenes.euskaltel.tv/logos/NATGEOWILD_OTT_20190204.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NATGEOWILDSD)/index.m3u8" },
+{ "name": "ODISEA HD", "image": "http://imagenes.euskaltel.tv/logos/ODISEA_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ODISEAHD)/index.m3u8" }
+]
+},
+{
+      "name": "Musica",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lila_Downs_en_Oaxaca.jpg",
+      "stations": [
+{ "name": "HIT TV", "image": "http://imagenes.euskaltel.tv/logos/HITTV_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(HITTV)/index.m3u8" },
+{ "name": "MTV 00s", "image": "http://imagenes.euskaltel.tv/logos/MTV00s_OTT_072021.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VH1)/index.m3u8" },
+{ "name": "MTV 80s", "image": "http://imagenes.euskaltel.tv/logos/MTV80s_OTT_102020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(VH1CLASSIC)/index.m3u8" },
+{ "name": "MTV 90s", "image": "http://imagenes.euskaltel.tv/logos/MTV90s_OTT_102020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVROCKS)/index.m3u8" },
+{ "name": "CLUB MTV", "image": "http://imagenes.euskaltel.tv/logos/MTVCLUB_OTT_092021.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVDANCE)/index.m3u8" },
+{ "name": "MTV HD", "image": "http://imagenes.euskaltel.tv/logos/MTVHD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVHD)/index.m3u8" },
+{ "name": "MTV HITS", "image": "http://imagenes.euskaltel.tv/logos/MTVHITS_OTT_092021.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVHITS)/index.m3u8" },
+{ "name": "NICK MUSIC", "image": "http://imagenes.euskaltel.tv/logos/NICKMUSIC_OTT_062021.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(MTVMUSIC)/index.m3u8" }
+]
+},
+{
+      "name": "Noticias",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/News_of_the_World_%28film%29_Logo.png",
+      "stations": [
+{ "name": "CANAL 24 HORAS", "image": "http://imagenes.euskaltel.tv/logos/24H_OTT_062021.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CANAL24HORAS)/index.m3u8" },
+{ "name": "AL JAZEERA", "image": "http://imagenes.euskaltel.tv/logos/ALJAZEERA_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ALJAZEERA)/index.m3u8" },
+{ "name": "CANAL SUR ANDALUCIA", "image": "http://imagenes.euskaltel.tv/logos/ANDALUCIAINT_OTT_102023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ANDALUCIA)/index.m3u8" },
+{ "name": "BBC NEWS", "image": "http://imagenes.euskaltel.tv/logos/BBC_OTT_042023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BBC)/index.m3u8" },
+{ "name": "BLOOMBERG", "image": "http://imagenes.euskaltel.tv/logos/BLOOMBERG_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BLOOMBERG)/index.m3u8" },
+{ "name": "CARACOL TV", "image": "http://imagenes.euskaltel.tv/logos/CARACOLTV_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CARACOLTV)/index.m3u8" },
+{ "name": "CNN", "image": "http://imagenes.euskaltel.tv/logos/CNN_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CNNi)/index.m3u8" },
+{ "name": "DW", "image": "http://imagenes.euskaltel.tv/logos/DW_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DW)/index.m3u8" },
+{ "name": "EURONEWS", "image": "http://imagenes.euskaltel.tv/logos/EURONEWS_OTT_022023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(EURONEWS)/index.m3u8" },
+{ "name": "FRANCE 24", "image": "http://imagenes.euskaltel.tv/logos/FRANCE24_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FRANCE24)/index.m3u8" },
+{ "name": "TELEMADRID INT", "image": "http://imagenes.euskaltel.tv/logos/TELEMADRIDINT_OTT_102023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELEMADRIDINT)/index.m3u8" },
+{ "name": "TV5 MONDE", "image": "http://imagenes.euskaltel.tv/logos/TV5_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TV5)/index.m3u8" },
+{ "name": "TVCi", "image": "http://imagenes.euskaltel.tv/logos/TVCI_OTT_102023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TVCi)/index.m3u8" }
+
+]
 }
 ]
 }
