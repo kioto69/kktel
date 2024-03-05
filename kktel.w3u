@@ -49,12 +49,12 @@
 { "name": "MEGA", "image": "http://imagenes.euskaltel.tv/logos/MEGA_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MEGA)/index.m3u8" },
 { "name": "ENERGY", "image": "http://imagenes.euskaltel.tv/logos/ENERGY_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ENERGY)/index.m3u8" },
 { "name": "DKISS", "image": "http://imagenes.euskaltel.tv/logos/DKISS_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DKISS)/index.m3u8" },
-{ "name": "DIVINITY", "image": "http://imagenes.euskaltel.tv/logos/divinity.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DIVINITY)/index.m3u8" },
-{ "name": "NOVA", "image": "http://imagenes.euskaltel.tv/logos/NOVA_OTT_220620.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NOVA)/index.m3u8" },
+{ "name": "DIVINITY", "image": "http://imagenes.euskaltel.tv/logos/divinity.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(DIVINITY)/index.m3u8" },
+{ "name": "NOVA", "image": "http://imagenes.euskaltel.tv/logos/NOVA_OTT_220620.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(NOVA)/index.m3u8" },
 { "name": "FDF", "image": "http://imagenes.euskaltel.tv/logos/fdf.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(FDF)/index.m3u8" },
 { "name": "COSMOPOLITAN HD", "image": "http://imagenes.euskaltel.tv/logos/COSMO_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(COSMOHD)/index.m3u8" },
-{ "name": "BEMAD TV HD", "image": "http://imagenes.euskaltel.tv/logos/BEMADHD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(BEMADHD)/index.m3u8" },
-{ "name": "ATRESERIES HD", "image": "http://imagenes.euskaltel.tv/logos/A3SERIES_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ATRESERIESHD)/index.m3u8" }
+{ "name": "BEMAD TV HD", "image": "http://imagenes.euskaltel.tv/logos/BEMADHD_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(BEMADHD)/index.m3u8" },
+{ "name": "ATRESERIES HD", "image": "http://imagenes.euskaltel.tv/logos/A3SERIES_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ATRESERIESHD)/index.m3u8" }
 ]
 },
 {
