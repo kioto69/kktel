@@ -47,7 +47,7 @@
 { "name": "SYFY HD", "image": "http://imagenes.euskaltel.tv/logos/SYFY_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(SYFY)/index.m3u8" },
 { "name": "WARNER TV", "image": "http://imagenes.euskaltel.tv/logos/WARNERTV_OTT_042023.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TNTHD)/index.m3u8" },
 { "name": "MEGA", "image": "http://imagenes.euskaltel.tv/logos/MEGA_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(MEGA)/index.m3u8" },
-{ "name": "ENERGY", "image": "http://imagenes.euskaltel.tv/logos/ENERGY_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ENERGY)/index.m3u8" },
+{ "name": "ENERGY", "image": "http://imagenes.euskaltel.tv/logos/ENERGY_OTT_062020.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(ENERGY)/index.m3u8" },
 { "name": "DKISS", "image": "http://imagenes.euskaltel.tv/logos/DKISS_OTT_122020.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DKISS)/index.m3u8" },
 { "name": "DIVINITY", "image": "http://imagenes.euskaltel.tv/logos/divinity.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(DIVINITY)/index.m3u8" },
 { "name": "NOVA", "image": "http://imagenes.euskaltel.tv/logos/NOVA_OTT_220620.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NOVA)/index.m3u8" },
