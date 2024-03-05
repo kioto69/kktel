@@ -4,21 +4,7 @@
   "url": "https://bit.ly/kktel2",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Euskaltel_logo.svg/1200px-Euskaltel_logo.svg.png",
   "info": "KKTEL Online",
-  "groups": [
-    {
-      "name": "Generalistas",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
-      "stations": [
-{ "name": "LA 1 HD", image": "http://imagenes.euskaltel.tv/logos/tve1.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TVE1HD)/index.m3u8" }
-{ "name": "LA 2 HD", image": "http://imagenes.euskaltel.tv/logos/LA2_OTT.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LA2)/index.m3u8" }
-{ "name": "ETB 1 HD", image": "http://imagenes.euskaltel.tv/logos/ETB1_OTT_022022.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB1)/index.m3u8" }
-{ "name": "ETB 2 HD", image": "http://imagenes.euskaltel.tv/logos/ETB2_OTT_022022.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ETB2)/index.m3u8" }
-{ "name": "ANTENA 3 HD", image": "http://imagenes.euskaltel.tv/logos/ANTENA3_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(ANTENA3HD)/index.m3u8" }
-{ "name": "TELECINCO HD", image": "http://imagenes.euskaltel.tv/logos/TELE5_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TELE5HD)/index.m3u8" }
-{ "name": "CUATRO HD", image": "http://imagenes.euskaltel.tv/logos/CUATRO_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(CUATROHD)/index.m3u8" }
-{ "name": "LA SEXTA HD", image": "http://imagenes.euskaltel.tv/logos/LASEXTA_OTT_082019.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LASEXTAHD)/index.m3u8" }
-      ]
-  }"groups": [
+"groups": [
     {
       "name": "Infantil",
       "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
@@ -36,40 +22,6 @@
 { "name": "NICK HD", image": "http://imagenes.euskaltel.tv/logos/NICK_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKELODEON)/index.m3u8" }
 { "name": "NICK JR", image": "http://imagenes.euskaltel.tv/logos/NICKJR_OTT_022024.png", "url": "http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(NICKJR)/index.m3u8" }
       ]
-  }"groups": [
-    {
-      "name": "Cine",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
-      "stations": [
-      ]
-  }"groups": [
-    {
-      "name": "Series",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
-      "stations": [
-      ]
-  }"groups": [
-    {
-      "name": "Deportes",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
-      "stations": [
-      ]
-  }"groups": [
-    {
-      "name": "Documentales",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
-      "stations": [
-      ]
-  }"groups": [
-    {
-      "name": "Musica",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
-      "stations": [
-      ]
-  }"groups": [
-    {
-      "name": "Noticias",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
-      "stations": [
-      ]
+}
+]
 }
