@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LA 1 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/tve1.png",LA 1 HD
-http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(TVE1HD)/index.m3u8
+http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TVE1HD)/index.m3u8
 #EXTINF:-1 tvg-id="LA 2 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/LA2_OTT.png",LA 2 HD
 http://live.euskaltel.tv/Content/HLS_FPS/Live/Channel(LA2)/index.m3u8
 #EXTINF:-1 tvg-id="ETB 1 HD" group-title="NOTICIAS"  tvg-logo="http://imagenes.euskaltel.tv/logos/ETB1_OTT_022022.png",ETB 1 HD
