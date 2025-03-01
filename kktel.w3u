@@ -6,7 +6,7 @@
   "info": "KKTEL",
 "groups": [
     {
-      "name": "Generalistos",
+      "name": "Generalistas",
       "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
       "stations": [
 { "name": "LA 1 HD", "image": "http://imagenes.euskaltel.tv/logos/tve1.png", "url": "http://live.euskaltel.tv/Content/HLS_PRM/Live/Channel(TVE1HD)/index.m3u8" },
